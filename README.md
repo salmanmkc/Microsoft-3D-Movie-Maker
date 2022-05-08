@@ -39,11 +39,8 @@ Jez also offered this interesting BRender anecdote in an email:
 ```
 
 When Sam Littlewood designed BRender, he didn’t write the code and then document it.  
-
 The way most things were built at the time.
-
 First, he wrote the manual: the full documentation.
-
 That served as the spec, then the coding started.
 
 ```
